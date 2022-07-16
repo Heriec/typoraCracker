@@ -46,6 +46,7 @@ python typora.py "C:\Program Files\Typora\resources\app.asar" .  // 你Typora安
 好了，这个时候我们保存这个文件
 
 4、文件替换
+
 把dec_app，把它复制到Typora目录下的resources，并改名为app
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/f1619a78b9f347bcad1eb62bdcf3ec5f.png)
 现在我再打开typora就可以使用了。

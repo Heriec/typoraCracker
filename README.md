@@ -13,6 +13,8 @@
 
 原项目是[fossabot/typoraCracker: A patch and keygen tools for typora. (github.com)](https://github.com/fossabot/typoraCracker)的，我拿过来使用，防止后面Typora不给用了，我有个备份。
 
+> 原项目已无法查看
+
 本项目里面的dec_app是已经修改过的了，所以直接放到Typora下改名为`app`就可以用。
 
 下面是解决步骤。
